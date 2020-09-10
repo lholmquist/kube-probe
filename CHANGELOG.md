@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.0.0 (2020-09-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* **package:** removal of Node 8 support
+
+### chore
+
+* **package:** Engine parameter targets node 10+ ([#83](https://www.github.com/lholmquist/kube-probe/issues/83)) ([04175c2](https://www.github.com/lholmquist/kube-probe/commit/04175c282ee94d4f7ef29e234d6b68393c466ccc))
+
 ## [0.5.0](https://github.com/nodeshift/kube-probe/compare/v0.4.0...v0.5.0) (2020-04-23)
 
 
